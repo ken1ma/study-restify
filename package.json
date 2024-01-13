@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "restify": "^11.1.0"
+  }
+}
